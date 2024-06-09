@@ -18,4 +18,4 @@ Evaluation: Evaluate the trained models using the evaluation scripts (evaluate_c
 Deployment: Once trained, deploy the model of your choice in your preferred environment for real-time spam detection in emails.<br><br>
 
 # Results
-The performance metrics of each model, including accuracy, precision, recall, and F1-score, are documented in the repository. Additionally, visualizations such as confusion matrices are provided to further analyze the model's performance.
+The performance metrics of each model, including accuracy, precision, recall, far and frr are documented in the repository. Additionally, visualizations such as confusion matrices are provided to further analyze the model's performance.
